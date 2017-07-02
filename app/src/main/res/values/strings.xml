@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CourseShare</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_create_lecture_title">Create a new lecture</string>
+    <string name="activity_create_lecture_name">Name:</string>
+    <string name="description">activity_create_lecture_description</string>
 </resources>
